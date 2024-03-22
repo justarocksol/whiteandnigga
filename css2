@@ -1,0 +1,7 @@
+﻿@font-face {
+  font-family: 'Shadows Into Light';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/shadowsintolight/v19/UqyNK9UOIntux_czAvDQx_ZcHqZXBNQDcg.ttf) format('truetype');
+}
